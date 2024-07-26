@@ -40,7 +40,7 @@ Pathological image analysis, Multimodal data analysis
 # 💻 Research Experiences
 - 2014.09 - 2018.07: B.ENG. in Software Engineering, Taiyuan University of Technology, China
 - 2018.09 - 2024.07: M.ENG. in Software Engineering, Taiyuan University of Technology, China
-- 2024.9 - Present: Ph.D candidate, Taiyuan University of Technology, China
+- 2024.09 - Present: Ph.D candidate, Taiyuan University of Technology, China
 
 
 # 📝 Publications 
