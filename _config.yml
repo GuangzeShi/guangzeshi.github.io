@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xueyu Liu (刘雪宇)"
 description              : "<br> Ph.D candidate at Taiyuan University of Technology, China<br>"
-repository               : "XueyuLiu/xueyuliu.github.io"
+repository               : "https://xueyuliu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=jeatLqIAAAAJ&hl=zh-CN"
   email            : "liyidi@tyut.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Xueyu-Liu-5?ev=hdr_xprf&_sg=KWzGXRxFoOc-jy03D8h08KlnH_RR_RuQifk5x9T3Gplv8lqx-sAchfm4q4Vyuh4h-0JsG8IKXuA4OEVWGkDfPzSU"
-  uri              :xueyuliu.github.io
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
