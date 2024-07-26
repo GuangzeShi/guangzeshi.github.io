@@ -19,11 +19,13 @@ redirect_from:
 
 # **About Me**
 
-Yidi Li is currently an associate professor in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院). Prior to that, she received the PhD degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023. She has published more than 10 papers in top international conferences and SCI journals in the field of artificial intelligence. She serves as a reviewer for many important journals and conferences in the field of artificial intelligence, such as CAAI TRIT, AAAI, and ICASSP. She serves as an expert judge for 3D Digital Innovation Design Competition, and other national events.
+Xueyu Liu is currently a Ph.D. candidate in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院). His advisor is Professor Ming Li. He has published over ten papers in SCI journals and renowned conferences, including J-BHI and MICCAI.
 
  
 
-Yidi Li's research work centers on audio-visual fusion, and is dedicated to improving the model's adaptability and robustness in complex dynamic scenarios by investigating multimodal heterogeneous data fusion problems, and multimodal multilevel information interaction problems. Her research interests include audio-visual learning, sound source localization, speech recognition, and speaker tracking.
+Xueyu Liu's research focuses on computer vision and medical data analytics. His interests include foundation models, meta-learning, weakly supervised learning, and few-shot learning in computer vision, as well as pathological image analysis and multimodal data analysis in medical data analytics.
+
+
 
 # 📜 Research Area
 - **Computer Vision:** 
@@ -63,11 +65,13 @@ Pathological image analysis, Multimodal data analysis
 
 
 # 🎖 Certifications and Awards
-- The 16th National 3D Digital Innovation Design Competition, 2023, <font color=red>National First Prize</font>.
-- The 20th National College Student Information Security and Adversarial Technology Competition, 2023, <font color=red>National First Prize</font>.
+- China International College Students Innovation Competition, 2024, <font color=red>National Second Prize</font>.
+- 7th China International College Students’ "Internet+" Innovation and Entrepreneurship Competition, 2023, <font color=red>National Third Prize</font>.
+- 12th "Challenge Cup" China College Students Entrepreneurship Competition, 2020, <font color=red>National Second Prize</font>.
+- "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling, 2020, <font color=red>National Second Prize</font>.
 
 <!-- Google Analytics -->
-<script async src="https://catherine-qian.github.io/"></script>
+<script async src="https://xueyuliu.github.io/"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
