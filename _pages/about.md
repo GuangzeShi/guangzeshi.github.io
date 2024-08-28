@@ -45,7 +45,7 @@ Pathological image analysis, Multimodal data analysis
 
 # 📝 Publications 
 
-- [1] Zihao Mi, **Xueyu Liu**, Jianan Zhang, Guangze Shi, Yidi Li Yongfei Wu*. Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation. IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**) 2024. <font color=red>(CCF B)</font>
+- [1] Zihao Mi, **Xueyu Liu**, Jianan Zhang, Guangze Shi, Yidi Li Yongfei Wu*. Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation. IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), 2024. <font color=red>(CCF B)</font>
 - [2] Yexin Lai, **Xueyu Liu**, E Linning, Yujing Cheng, Shuyan Liu, Yongfei Wu*, Wen Zheng. Transformer based multiple superpixel-instance learning for weakly supervised segmenting lesions of interstitial lung disease. Expert Systems with Applications, 2024. <font color=red>(SCI Q1-top)</font>
 - [3] Chenyang Zhou, **Xueyu Liu**, Shaohua Liang, Yexin Lai, Miao Che, Ming Li, Zhenhuan Xu, Shu Feng, Yongfei Wu*. Swin Transformer based detection and segmentation networks for measurement and quantification analysis of arteriolar vessels from renal whole slide images. Biomedical Signal Processing and Control, 2024. <font color=red>(SCI Q2)</font>
 - [4] **Xueyu Liu**, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu*, MIng Li, Weixia Han, Wen Zheng. Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2024. <font color=red>(CCF B)</font>
