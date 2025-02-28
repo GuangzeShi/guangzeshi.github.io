@@ -53,7 +53,7 @@ Pathological image analysis, Multimodal data analysis
 - 12th "Challenge Cup" China College Students Entrepreneurship Competition, 2020, <font color=red>National Second Prize</font>.
 
 <!-- Google Analytics -->
-<script async src="https://shiguangze.github.io/"></script>
+<script async src="https://guangzeshi.github.io/"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
