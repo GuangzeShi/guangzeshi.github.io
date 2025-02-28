@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xueyu Liu (刘雪宇)"
+title                    : "Guangze Shi (师广泽)"
 description              : "<br> Ph.D candidate at Taiyuan University of Technology, China<br>"
-repository               : "https://xueyuliu.github.io"
+repository               : "https://guangzeshi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xueyu Liu  <br> (刘雪宇)"
-  avatar           : "https://github.com/XueyuLiu/xueyuliu.github.io/blob/main/images/profile_photo.png?raw=true"
+  name             : "Guangze Shi  <br> (刘雪宇)"
+  avatar           : "https://github.com/GuangzeShi/guangzeshi.github.io/blob/main/images/profile_photo.png?raw=true"
   # bio              : "[Curriculum Vitae]"
   location         : "Taiyuan, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=jeatLqIAAAAJ&hl=zh-CN"
-  email            : "snowrain01@outlook.com"
+  email            : "blessingoasis@outlook.com"
   researchgate     :  "https://www.researchgate.net/profile/Xueyu-Liu-5?ev=hdr_xprf&_sg=KWzGXRxFoOc-jy03D8h08KlnH_RR_RuQifk5x9T3Gplv8lqx-sAchfm4q4Vyuh4h-0JsG8IKXuA4OEVWGkDfPzSU"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xueyuliu"
+  github           : "guangzeshi"
   google_plus      :
   keybase          :
   instagram        :
