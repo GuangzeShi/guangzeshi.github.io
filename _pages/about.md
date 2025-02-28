@@ -19,7 +19,7 @@ redirect_from:
 
 # **About Me**
 
-Xueyu Liu is currently a Ph.D. candidate in the College of Computer Science and Technology at Taiyuan University of Technology. His advisor is Professor Ming Li. He has published over ten papers in SCI journals and renowned conferences, including J-BHI and MICCAI.
+Xueyu Liu is currently a Ph.D. candidate in the College of Computer Science and Technology at Taiyuan University of Technology. His advisor is Professor Ming Li. He has published over ten papers in SCI journals and renowned conferences, including CVPR and MICCAI.
 
  
 
