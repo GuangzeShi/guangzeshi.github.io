@@ -19,7 +19,7 @@ redirect_from:
 
 # **About Me**
 
-Guangze Shi is currently a Ph.D. candidate in the College of Computer Science and Technology at Taiyuan University of Technology. His advisor is Professor Mingqiang Wei. He has published four papers in SCI journals and renowned conferences, including CVPR and MICCAI.
+Guangze Shi is currently a Ph.D. candidate in the College of Computer Science and Technology at Taiyuan University of Technology. His advisor is Professor Mingqiang Wei. He has published four papers in SCI journals and renowned conferences, including CVPR, MICCAI and MedIA.
 
  
 
