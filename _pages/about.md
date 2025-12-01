@@ -32,7 +32,7 @@ Guangze Shi's research focuses on computer vision and medical data analytics. Hi
 
 Foundation model, Domain generalization
 
-- **Medical data analytics:**
+- **Medical Data Analytics:**
 
 Pathological image analysis, Multimodal data analysis
 
