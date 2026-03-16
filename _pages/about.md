@@ -46,6 +46,7 @@ Pathological image analysis, Multimodal data analysis
 # 📝 Publications 
 ## 2026
 - [1] Xueyu Liu, Xiaoyi Zhang, Meilin Liu, **Guangze Shi**, Jia Shen, Yujie Wang, Cai Zhao, Ziyuan He, Yongfei Wu\*, Mingqiang Wei, Yongle Chen\*. Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model, Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. <font color=red>(CCF A)</font>
+- [2] Shuqi Xia, **Guangze Shi**, Jiarui Cao, Aoyuan Shi, Meilin Liu, Xiaoyi Zhang, Yujie Wang, Xueyu Liu\*, Cai Zhao, Ziyuan He, Yongfei Wu, Mingqiang Wei. Instruction-Focus-Prompt：Semantics-Driven Structural Prompts for Universal SAM Segmentation, Conference on Computer Vision and Pattern Recognition Findings (**CVPR Findings**), 2026.
 
 ## 2025:
 - [1] **Guangze Shi**, Ying Wang, Yongfei Wu\*, Xueyu Liu\*, Jia Shen, Hao Meng, Yexin Lai, Weixia Han, Yan Hu, Mingqiang Wei. Al-driven Quantitative Analysis of Pathological images for Membranous Nephropathy across Macro and Micro Modalities, IEEE Journal of Biomedical and Health Informatics (**IEEE J-BHI**), 2025. <font color=red>(SCI Q2-TOP)</font>
